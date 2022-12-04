@@ -1,0 +1,27 @@
+{
+  "name": "nestedandconditonalschemavalidation",
+  "version": "1.0.0",
+  "description": "Nested and Conditional Schema Validation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alamjamal/nestedandconditonalschemavalidation.git"
+  },
+  "author": "alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alamjamal/nestedandconditonalschemavalidation/issues"
+  },
+  "homepage": "https://github.com/alamjamal/nestedandconditonalschemavalidation#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "joi": "^17.7.0",
+    "rootpath": "^0.1.2"
+  }
+}
